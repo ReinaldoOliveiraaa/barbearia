@@ -3,6 +3,7 @@ body {
 }
 
 #banner {
+     width: 100%;
 }
 
 h1 {
@@ -14,10 +15,10 @@ p {
     background: #CCCCCC;
 }
 
-em strong {
-    color: red;
-    }
-
-    #missao {
+#missao {
         font-size: 20px;
         }
+
+em strong {
+    color: #FF0000;
+    }
