@@ -37,3 +37,11 @@ background: #FFFFFF;
 .itens {
 font-style: italic;
 }
+
+.imagembeneficios {
+width: 50%;
+}
+
+ul {
+display: inline-block;
+}
