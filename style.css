@@ -42,9 +42,9 @@ font-style: italic;
 width: 50%;
 }
 
-.ul {
-display: inline-block;
-vertical-align: top;
-width: 20%;
-margin-right: 15%;
-}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    }
